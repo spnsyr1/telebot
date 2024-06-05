@@ -25,7 +25,7 @@ responses = []
 for intent in data["intents"]:
     for pattern in intent["patterns"]:
         patterns.append(pattern)
-        responses.append(random.choice(intent["responses"]))  # Memilih respon pertama
+        responses.append(random.choice(intent["responses"]))  # Memilih respon acak
 
 df = pd.DataFrame({"Pertanyaan": patterns, "Jawaban": responses})
 
@@ -54,16 +54,13 @@ def predict_answer(user_input):
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_message(
-        chat_id=update.effective_chat.id, text="Halo! Perkenalkan Aku adalah SiPasal, Bot Pengenal UUD 1945! Silahkan ketikkan pasal UUD 1945 berapa yang ingin Kamu cari :D\n\nAturan menanyakan BAB dan Pasal UUD 1945 :\n- Pencarian BAB pada UUD 1945 menggunakan angka romawi (misal : BAB I - XVI) kecuali BAB V dan BAB X menggunakan kata (misal : BAB lima dan BAB sepuluh).\n- Pencarian Pasal pada UUD 1945 menggunakan angka desimal untuk Pasal 10 - 37 (misal : Pasal 10 - 37) dan menggunakan kata untuk Pasal 1 - 9 (misal : Pasal satu - sembilan)."
+        chat_id=update.effective_chat.id, text="Halo! Perkenalkan Aku adalah SiPasal, Bot Pengenal UUD 1945! Silahkan ketikkan pasal UUD 1945 berapa yang ingin Kamu cari :D\n\nAturan menanyakan BAB dan Pasal UUD 1945 :\n- Pencarian BAB pada UUD 1945 menggunakan angka romawi (misal : BAB I - XVI) kecuali BAB I, BAB V, dan BAB X menggunakan kata (misal : BAB satu, BAB lima, dan BAB sepuluh).\n- Pencarian Pasal pada UUD 1945 menggunakan angka desimal untuk Pasal 10 - 37 (misal : Pasal 10 - 37) dan menggunakan kata untuk Pasal 1 - 9 (misal : Pasal satu - sembilan)."
     )
 
 
 async def echo(update: Update, context: ContextTypes.DEFAULT_TYPE):
     global prev_answer
     text = update.message.text
-    # text = text.lower()
-    # kalo mau edit inputan user di sini
-    # text = inputan user
 
     await context.bot.send_message(
         chat_id=update.effective_chat.id, text=predict_answer(text)
