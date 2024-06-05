@@ -52,7 +52,7 @@ def predict_answer(user_input):
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_message(
-        chat_id=update.effective_chat.id, text="Halo! Ada yang bisa saya bantu?"
+        chat_id=update.effective_chat.id, text="Halo! Selamat datang di Bot Pengenal UUD 1945. Silahkan ketikkan pasal UUD 1945 berapa yang ingin anda cari :D"
     )
 
 
