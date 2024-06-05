@@ -267,6 +267,7 @@
         {
             "tag": "pasal3",
             "patterns": [
+                "pasal 3",
                 "Pasal 3 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 3 UUD 1945?"
             ],
