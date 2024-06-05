@@ -278,6 +278,7 @@
         {
             "tag": "pasal4",
             "patterns": [
+                "pasal 4",
                 "Pasal 4 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 4 UUD 1945?"
             ],
