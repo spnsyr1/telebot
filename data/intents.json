@@ -14,6 +14,8 @@
         {
             "tag": "babI",
             "patterns": [
+                "bab 1",
+                "bab i",
                 "Apa topik dari BAB I UUD 1945?",
                 "BAB I UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB I UUD 1945?"
@@ -25,6 +27,8 @@
         {
             "tag": "babII",
             "patterns": [
+                "bab 2",
+                "bab ii",
                 "Apa topik dari BAB II UUD 1945?",
                 "BAB II UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB II UUD 1945?"
@@ -36,6 +40,8 @@
         {
             "tag": "babIII",
             "patterns": [
+                "bab 3",
+                "bab iii",
                 "Apa topik dari BAB III UUD 1945?",
                 "BAB III UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB III UUD 1945?"
@@ -47,6 +53,8 @@
         {
             "tag": "babIV",
             "patterns": [
+                "bab 4",
+                "bab iv",
                 "Apa topik dari BAB IV UUD 1945?",
                 "BAB IV UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB IV UUD 1945?"
@@ -58,6 +66,8 @@
         {
             "tag": "babV",
             "patterns": [
+                "bab 5",
+                "bab v",
                 "Apa topik dari BAB V UUD 1945?",
                 "BAB V UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB V UUD 1945?"
@@ -69,6 +79,8 @@
         {
             "tag": "babVI",
             "patterns": [
+                "bab 6",
+                "bab vi",
                 "Apa topik dari BAB VI UUD 1945?",
                 "BAB VI UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB VI UUD 1945?"
@@ -80,6 +92,8 @@
         {
             "tag": "babVII",
             "patterns": [
+                "bab 7",
+                "bab vii",
                 "Apa topik dari BAB VII UUD 1945?",
                 "BAB VII UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB VII UUD 1945?"
@@ -91,6 +105,8 @@
         {
             "tag": "babVIIA",
             "patterns": [
+                "bab 7a",
+                "bab viia",
                 "Apa topik dari BAB VIIA UUD 1945?",
                 "BAB VIIA UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB VIIA UUD 1945?"
@@ -102,6 +118,8 @@
         {
             "tag": "babVIIB",
             "patterns": [
+                "bab 7b",
+                "bab viib",
                 "Apa topik dari BAB VIIB UUD 1945?",
                 "BAB VIIB UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB VIIB UUD 1945?"
@@ -113,6 +131,8 @@
         {
             "tag": "babVIII",
             "patterns": [
+                "bab 8",
+                "bab viii",
                 "Apa topik dari BAB VIII UUD 1945?",
                 "BAB VIII UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB VIII UUD 1945?"
@@ -124,6 +144,8 @@
         {
             "tag": "babVIIIA",
             "patterns": [
+                "bab 8a",
+                "bab viiia",
                 "Apa topik dari BAB VIIIA UUD 1945?",
                 "BAB VIIIA UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB VIIIA UUD 1945?"
@@ -135,6 +157,8 @@
         {
             "tag": "babIX",
             "patterns": [
+                "bab 9",
+                "bab ix",
                 "Apa topik dari BAB IX UUD 1945?",
                 "BAB IX UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB IX UUD 1945?"
@@ -146,6 +170,8 @@
         {
             "tag": "babIXA",
             "patterns": [
+                "bab 9a",
+                "bab ixa",
                 "Apa topik dari BAB IXA UUD 1945?",
                 "BAB IXA UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB IXA UUD 1945?"
@@ -157,6 +183,8 @@
         {
             "tag": "babX",
             "patterns": [
+                "bab 10",
+                "bab x",
                 "Apa topik dari BAB X UUD 1945?",
                 "BAB X UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB X UUD 1945?"
@@ -168,6 +196,8 @@
         {
             "tag": "babXA",
             "patterns": [
+                "bab 10a",
+                "bab xa",
                 "Apa topik dari BAB XA UUD 1945?",
                 "BAB XA UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB XA UUD 1945?"
@@ -179,6 +209,8 @@
         {
             "tag": "babXI",
             "patterns": [
+                "bab 11",
+                "bab xi",
                 "Apa topik dari BAB X1 UUD 1945?",
                 "BAB X1 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB X1 UUD 1945?"
@@ -190,6 +222,8 @@
         {
             "tag": "babXII",
             "patterns": [
+                "bab 12",
+                "bab xii",
                 "Apa topik dari BAB XII UUD 1945?",
                 "BAB XII UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB XII UUD 1945?"
@@ -201,6 +235,8 @@
         {
             "tag": "babXIII",
             "patterns": [
+                "bab 13",
+                "bab xiii",
                 "Apa topik dari BAB XIII UUD 1945?",
                 "BAB XIII UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB XIII UUD 1945?"
@@ -212,6 +248,8 @@
         {
             "tag": "babXIV",
             "patterns": [
+                "bab 14",
+                "bab xiv",
                 "Apa topik dari BAB XIV UUD 1945?",
                 "BAB XIV UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB XIV UUD 1945?"
@@ -223,6 +261,8 @@
         {
             "tag": "babXV",
             "patterns": [
+                "bab 15",
+                "bab xv",
                 "Apa topik dari BAB XV UUD 1945?",
                 "BAB XV UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB XV UUD 1945?"
@@ -234,6 +274,8 @@
         {
             "tag": "babXVI",
             "patterns": [
+                "bab 16",
+                "bab xvi",
                 "Apa topik dari BAB XVI UUD 1945?",
                 "BAB XVI UUD 1945 bahas tentang apa?",
                 "Berapa jumlah pasal dalam BAB XVI UUD 1945?"
