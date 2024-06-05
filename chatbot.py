@@ -1,5 +1,6 @@
 import logging
 import json
+import random
 from telegram import Update
 from telegram.ext import (
     ApplicationBuilder,
@@ -24,7 +25,7 @@ responses = []
 for intent in data["intents"]:
     for pattern in intent["patterns"]:
         patterns.append(pattern)
-        responses.append(intent["responses"][0])  # Memilih respon pertama
+        responses.append(random.choice(intent["responses"]))  # Memilih respon pertama
 
 df = pd.DataFrame({"Pertanyaan": patterns, "Jawaban": responses})
 
