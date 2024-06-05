@@ -54,7 +54,7 @@ def predict_answer(user_input):
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_message(
-        chat_id=update.effective_chat.id, text="Halo! Perkenalkan Aku adalah SiPasal, Bot Pengenal UUD 1945! Silahkan ketikkan pasal UUD 1945 berapa yang ingin Kamu cari :D\n\nAturan menanyakan BAB dan Pasal UUD 1945 :\n- Pencarian BAB pada UUD 1945 menggunakan angka romawi (misal : BAB I - XVI) kecuali BAB I, BAB V, dan BAB X menggunakan kata (misal : BAB satu, BAB lima, dan BAB sepuluh).\n- Pencarian Pasal pada UUD 1945 menggunakan angka desimal untuk Pasal 10 - 37 (misal : Pasal 10 - 37) dan menggunakan kata untuk Pasal 1 - 9 (misal : Pasal satu - sembilan)."
+        chat_id=update.effective_chat.id, text="Halo! Perkenalkan Aku adalah SiPasal, Bot Pengenal UUD 1945! Silahkan ketikkan pasal UUD 1945 berapa yang ingin Kamu cari :D\n\nAturan untuk menanyakan BAB dan Pasal pada UUD 1945:\n\n1. Pencarian Bab pada UUD 1945:\n- Gunakan angka Romawi untuk Bab I - XVI\n- Gunakan kata untuk Bab I, Bab V, dan Bab X\n- Contoh Pencarian: \"Bab II, bab ix, bab satu, bab lima, bab sepuluh\"\n\n2. Pencarian Pasal pada UUD 1945:\n- Gunakan angka desimal untuk Pasal 10 - 37\n- Gunakan kata untuk Pasal 1 - 9\n- Contoh Pencarian: \"Pasal 10, pasal 15, pasal satu, pasal enam\""
     )
 
 
