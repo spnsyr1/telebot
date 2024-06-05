@@ -2973,13 +2973,35 @@
                 "cek",
                 "tes",
                 "halo",
-                "hi"
+                "hai"
             ],
             "responses": [
-                "Oi, aman broo!",
-                "halo juga",
-                "tis"
-
+                "Halo! Aku bisa mendengarmu ^_^"
+            ]
+        },
+        {
+            "tag": "tanya_fitur",
+            "patterns": [
+                "fitur bot",
+                "bisa apa",
+                "apa fitur"
+            ],
+            "responses": [
+                "Aku bisa memberikanmu informasi tentang pasal-pasal UUD 1945! Masukkan pasal yang ingin Kamu cari dan Aku bisa menjelaskannya!"
+            ]
+        },
+        {
+            "tag": "maaf_tidak_mengerti",
+            "patterns": [
+                "jelek",
+                "rusak",
+                "salah",
+                "gajelas",
+                "error",
+                "eror"
+            ],
+            "responses": [
+                "Maaf karena Aku masih dalam tahap pengembangan :( Semoga Aku bisa menjadi lebih baik lagi ^_^"
             ]
         }
     ]
