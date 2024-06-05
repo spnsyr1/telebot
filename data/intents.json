@@ -66,6 +66,7 @@
         {
             "tag": "babV",
             "patterns": [
+                "bab lima",
                 "bab 5",
                 "bab v",
                 "Apa topik dari BAB V UUD 1945?",
@@ -183,6 +184,7 @@
         {
             "tag": "babX",
             "patterns": [
+                "bab sepuluh",
                 "bab 10",
                 "bab x",
                 "Apa topik dari BAB X UUD 1945?",
