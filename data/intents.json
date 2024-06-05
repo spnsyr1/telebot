@@ -289,6 +289,7 @@
         {
             "tag": "pasal5",
             "patterns": [
+                "pasal 5",
                 "Pasal 5 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 5 UUD 1945?"
             ],
