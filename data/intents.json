@@ -3057,6 +3057,28 @@
             ]
         },
         {
+            "tag": "aturan_peralihan",
+            "patterns": [
+                "aturan peralihan",
+                "pasal aturan peralihan",
+                "isi aturan peralihan"
+            ],
+            "responses": [
+                ">>>ATURAN PERALIHAN<<<\n\n(1) Segala peraturan perundang-undangan yang ada masih tetap berlaku selama belum diadakan yang baru menurut Undang-Undang Dasar ini.\n(2) Semua lembaga negara yang ada masih tetap berfungsi sepanjang untuk melaksanakan ketentuan Undang-Undang Dasar dan belum diadakan yang baru menurut Undang-Undang Dasar ini.\n(3) Mahkamah Konstitusi dibentuk selambat-lambatnya pada 17 Agustus 2003 dan sebelum dibentuk segala kewenangannya dilakukan oleh Mahkamah Agung."
+            ]
+        },
+        {
+            "tag": "aturan_tambahan",
+            "patterns": [
+                "aturan tambahan",
+                "pasal aturan tambahan",
+                "isi aturan tambahan"
+            ],
+            "responses": [
+                ">>>ATURAN TAMBAHAN<<<\n\n(1) Majelis Permusyawaratan Rakyat ditugasi untuk melakukan peninjauan terhadap materi dan status hukum Ketetapan Majelis Permusyawaratan Rakyat Sementara dan Ketetapan Majelis Permusyawaratan Rakyat untuk diambil putusan pada Sidang Majelis Permusyawaratan Rakyat tahun 2003.\n(2) Dengan ditetapkannya perubahan Undang-Undang Dasar ini, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 terdiri atas Pembukaan dan pasal-pasal."
+            ]
+        },
+        {
             "tag": "peralihan_pasal1",
             "patterns": [
                 "Apa isi dari Pasal 1 Aturan Peralihan UUD 1945?",
