@@ -25,7 +25,7 @@ responses = []
 for intent in data["intents"]:
     for pattern in intent["patterns"]:
         patterns.append(pattern)
-        responses.append(random.choice(intent["responses"]))  # Memilih respon pertama
+        responses.append(random.choice(intent["responses"]))  # Memilih respon acak
 
 df = pd.DataFrame({"Pertanyaan": patterns, "Jawaban": responses})
 
