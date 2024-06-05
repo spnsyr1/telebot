@@ -8,6 +8,7 @@ from telegram.ext import (
     MessageHandler,
     filters,
 )
+
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import MultinomialNB
@@ -23,7 +24,7 @@ responses = []
 for intent in data["intents"]:
     for pattern in intent["patterns"]:
         patterns.append(pattern)
-        responses.append(intent["responses"][0])  # Choose the first response for simplicity
+        responses.append(intent["responses"][0])  # Memilih respon pertama
 
 df = pd.DataFrame({"Pertanyaan": patterns, "Jawaban": responses})
 
