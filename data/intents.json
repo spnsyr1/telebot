@@ -256,6 +256,7 @@
         {
             "tag": "pasal2",
             "patterns": [
+                "pasal 2",
                 "Pasal 2 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 2 UUD 1945?"
             ],
