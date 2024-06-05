@@ -25,7 +25,7 @@ responses = []
 for intent in data["intents"]:
     for pattern in intent["patterns"]:
         patterns.append(pattern)
-        responses.append(random.choice(intent["responses"]))  # Memilih respon acak
+        responses.append(random.choice(intent["responses"]))  # Memilih respon pertama
 
 df = pd.DataFrame({"Pertanyaan": patterns, "Jawaban": responses})
 
@@ -54,7 +54,7 @@ def predict_answer(user_input):
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_message(
-        chat_id=update.effective_chat.id, text="Halo! Perkenalkan Aku adalah SiPasal, Bot Pengenal UUD 1945! Silahkan ketikkan pasal UUD 1945 berapa yang ingin Kamu cari :D\n\nFormatnya adalah:\n- Gunakan huruf romawi untuk mencari BAB UUD 1945.\n- Jika ada kesalahan pada pencarian pasal, cobalah memasukan kata pencarian lain (misalnya: Pasal 3 menjadi pasal tiga)"
+        chat_id=update.effective_chat.id, text="Halo! Selamat datang di Bot Pengenal UUD 1945. Silahkan ketikkan pasal UUD 1945 berapa yang ingin anda cari :D"
     )
 
 
