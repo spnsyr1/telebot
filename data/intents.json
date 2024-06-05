@@ -216,7 +216,7 @@
                 "Berapa jumlah pasal dalam BAB X1 UUD 1945?"
             ],
             "responses": [
-                "BAB X1 memiliki 1 pasal, yang membahas tentang Agama (Pasal 29)"
+                "BAB XI memiliki 1 pasal, yang membahas tentang Agama (Pasal 29)"
             ]
         },
         {
@@ -289,10 +289,13 @@
             "patterns": [
                 "pasal 1",
                 "Pasal 1 UUD 1945 bahas tentang apa?",
-                "Berapa jumlah ayat dalam Pasal 1 UUD 1945?"
+                "Berapa jumlah ayat dalam Pasal 1 UUD 1945?",
+                "Pasal satu",
+                "Pasal satu UUD 1945 bahas tentang apa?",
+                "Berapa jumlah ayat dalam Pasal satu UUD 1945?"
             ],
             "responses": [
-                "Pasal 1 memiliki 3 ayat, yang membahas tentang bentuk dan kedaulatan Negara Kesatuan Republik Indonesia"
+                ">>>PASAL 1<<<\n\nMembahas tentang Bentuk dan kedaulatan Negara Republik Indonesia\n\nBunyi pasal 1\n(1) Negara Indonesia ialah Negara Kesatuan, yang berbentuk Republik.\n(2) Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar.\n(3) Negara Indonesia adalah negara hukum."
             ]
         },
         {
@@ -300,10 +303,13 @@
             "patterns": [
                 "pasal 2",
                 "Pasal 2 UUD 1945 bahas tentang apa?",
-                "Berapa jumlah ayat dalam Pasal 2 UUD 1945?"
+                "Berapa jumlah ayat dalam Pasal 2 UUD 1945?",
+                "Pasal dua",
+                "Pasal dua UUD 1945 bahas tentang apa?",
+                "Berapa jumlah ayat dalam Pasal dua UUD 1945?"
             ],
             "responses": [
-                "Pasal 2 memiliki 3 ayat, yang membahas tentang struktur dan sistem Majelis Permusyawaratan Rakyat"
+                ">>>PASAL 2<<<\n\nMembahas tentang Majelis Permusyawaratan Rakyat\n\nBunyi pasal 2\n(1) Majelis Permusyawaratan Rakyat terdiri atas anggota Dewan Perwakilan Rakyat dan anggota Dewan Perwakilan Daerah yang dipilih melalui pemilihan umum dan diatur lebih lanjut dengan undang-undang.\n(2) Majelis Permusyawaratan Rakyat bersidang sedikitnya sekali dalam lima tahun di ibukota negara.\n(3) Segala putusan Majelis Permusyawaratan Rakyat ditetapkan dengan suara yang terbanyak."
             ]
         },
         {
@@ -311,10 +317,13 @@
             "patterns": [
                 "pasal 3",
                 "Pasal 3 UUD 1945 bahas tentang apa?",
-                "Berapa jumlah ayat dalam Pasal 3 UUD 1945?"
+                "Berapa jumlah ayat dalam Pasal 3 UUD 1945?",
+                "Pasal tiga",
+                "Pasal tiga UUD 1945 bahas tentang apa?",
+                "Berapa jumlah ayat dalam Pasal tiga UUD 1945?"
             ],
             "responses": [
-                "Pasal 3 memiliki 3 ayat, yang membahas tentang tugas dan wewenang Majelis Permusyawaratan Rakyat"
+                ">>>PASAL 3<<<\n\nMembahas tentang Wewenang MPR\n\nBunyi pasal 3\n(1) Majelis Permusyawaratan Rakyat berwenang mengubah dan menetapkan Undang-Undang Dasar.\n(2) Majelis Permusyawaratan Rakyat melantik Presiden dan/atau Wakil Presiden.\n(3) Majelis Permusyawaratan Rakyat hanya dapat memberhentikan Presiden dan/atau Wakil Presiden dalam masa jabatannya menurut Undang-Undang Dasar."
             ]
         },
         {
@@ -322,10 +331,13 @@
             "patterns": [
                 "pasal 4",
                 "Pasal 4 UUD 1945 bahas tentang apa?",
-                "Berapa jumlah ayat dalam Pasal 4 UUD 1945?"
+                "Berapa jumlah ayat dalam Pasal 4 UUD 1945?",
+                "Pasal empat",
+                "Pasal empat UUD 1945 bahas tentang apa?",
+                "Berapa jumlah ayat dalam Pasal empat UUD 1945?"
             ],
             "responses": [
-                "Pasal 4 memiliki 2 ayat, yang membahas tentang kekuasaan Presiden dalam pemerintahan negara"
+                ">>>PASAL 4<<<\n\nMembahas tentang kekuasaan Presiden dalam pemerintahan negara\n\nBunyi pasal 4\n(1) Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut Undang-Undang Dasar.\n(2) Dalam melakukan kewajibannya Presiden dibantu olehsatu orang Wakil Presiden."
             ]
         },
         {
@@ -333,10 +345,13 @@
             "patterns": [
                 "pasal 5",
                 "Pasal 5 UUD 1945 bahas tentang apa?",
-                "Berapa jumlah ayat dalam Pasal 5 UUD 1945?"
+                "Berapa jumlah ayat dalam Pasal 5 UUD 1945?",
+                "Pasal lima",
+                "Pasal lima UUD 1945 bahas tentang apa?",
+                "Berapa jumlah ayat dalam Pasal lima UUD 1945?"
             ],
             "responses": [
-                "Pasal 5 memiliki 2 ayat, yang membahas tentang kekuasaan legislatif"
+                ">>>PASAL 5<<<\n\nMembahas tentang kekuasaan legislatif\n\nBunyi pasal 5\n(1) Presiden berhak mengajukan rancangan undang-undang kepada Dewan Perwakilan Rakyat.\n(2) Presiden menetapkan peraturan pemerintah untuk menjalankan undang-undang sebagaimana mestinya."
             ]
         },
         {
@@ -344,10 +359,13 @@
             "patterns": [
                 "pasal 6",
                 "Pasal 6 UUD 1945 bahas tentang apa?",
-                "Berapa jumlah ayat dalam Pasal 6 UUD 1945?"
+                "Berapa jumlah ayat dalam Pasal 6 UUD 1945?",
+                "Pasal enam",
+                "Pasal enam UUD 1945 bahas tentang apa?",
+                "Berapa jumlah ayat dalam Pasal enam UUD 1945?"
             ],
             "responses": [
-                "Pasal 6 memiliki 2 ayat, yang membahas tentang syarat-syarat calon Presiden dan calon Wakil Presiden"
+                ">>>PASAL 6<<<\n\nMembahas tentang syarat-syarat calon Presiden dan calon Wakil Presiden\n\nBunyi pasal 6\n(1) Calon Presiden dan calon Wakil Presiden harus seorang warga negara Indonesia sejak kelahirannya dan tidak pernah menerima kewarganegaraan lain karena kehendaknya sendiri, tidak pernah mengkhianati negara, serta mampu secara rohani dan jasmani untuk melaksanakan tugas dan kewajiban sebagai Presiden dan Wakil Presiden.\n(2) Syarat-syarat untuk menjadi Presiden dan Wakil Presiden diatur lebih lanjut dengan undang-undang."
             ]
         },
         {
@@ -358,7 +376,7 @@
                 "Berapa jumlah ayat dalam Pasal 6A UUD 1945?"
             ],
             "responses": [
-                "Pasal 6A memiliki 5 ayat, yang membahas tentang sistematis pemilu Presiden dan Wakil Presiden"
+                ">>>PASAL 6<<<\n\nMembahas tentang sistematis pemilu Presiden dan Wakil Presiden\n\nBunyi pasal 6A\n(1) Presiden dan Wakil Presiden dipilih dalam satu pasangan secara langsung oleh rakyat.\n(2) Pasangan calon Presiden dan Wakil Presiden diusulkan oleh partai politik atau gabungan partai politik peserta pemilihan umum sebelum pelaksanaan pemilihan umum.\n(3) Pasangan calon Presiden dan Wakil Presiden yang mendapatkan suara lebih dari lima puluh persen dari jumlah suara dalam pemilihan umum dengan sedikitnya dua puluh persen suara di setiap provinsi yang tersebar di lebih dari setengah jumlah provinsi di Indonesia, dilantik menjadi Presiden dan Wakil Presiden.\n(4) Dalam hal tidak ada pasangan calon Presiden dan Wakil Presiden terpilih, dua pasangan calon yang memperoleh suara terbanyak pertama dan kedua dalam pemilihan umum dipilih oleh rakyat secara langsung dan pasangan yang memperoleh suara rakyat terbanyak dilantik sebagai Presiden dan Wakil Presiden.\n(5) Tata cara pelaksanaan pemilihan Presiden dan Wakil Presiden lebih lanjut diatur dalam undang-undang."
             ]
         },
         {
@@ -366,15 +384,19 @@
             "patterns": [
                 "pasal 7",
                 "Pasal 7 UUD 1945 bahas tentang apa?",
-                "Berapa jumlah ayat dalam Pasal 7 UUD 1945?"
+                "Berapa jumlah ayat dalam Pasal 7 UUD 1945?",
+                "Pasal tujuh",
+                "Pasal tujuh UUD 1945 bahas tentang apa?",
+                "Berapa jumlah ayat dalam Pasal tujuh UUD 1945?"
             ],
             "responses": [
-                "Pasal 7 memiliki 1 ayat, yang membahas tentang lama masa jabatan Presiden dan Wakil Presiden"
+                ">>>PASAL 7<<<\n\nMembahas tentang lama masa jabatan Presiden dan Wakil Presiden\n\nBunyi pasal 7\nPresiden dan Wakil Presiden memegang jabatan selama lima tahun, dan sesudahnya dapat dipilih kembali dalam jabatan yang sama, hanya untuk satu kali masa jabatan."
             ]
         },
         {
             "tag": "pasal7A",
             "patterns": [
+                "pasal 7a",
                 "Pasal 7A UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 7A UUD 1945?"
             ],
@@ -407,28 +429,42 @@
         {
             "tag": "pasal8",
             "patterns": [
+                "pasal 8",
                 "Pasal 8 UUD 1945 bahas tentang apa?",
-                "Berapa jumlah ayat dalam Pasal 8 UUD 1945?"
+                "Berapa jumlah ayat dalam Pasal 8 UUD 1945?",
+                "Pasal delapan",
+                "Pasal delapan UUD 1945 bahas tentang apa?",
+                "Berapa jumlah ayat dalam Pasal delapan UUD 1945?"
             ],
             "responses": [
-                "Pasal 8 memiliki 3 ayat, yang membahas tentang ketentuan apabila Presiden tidak dapat melakukan kewajibannya dalam masa jabatannya"
+                "Pasal 8 memiliki 3 ayat, yang membahas tentang ketentuan apabila Presiden tidak dapat melakukan kewajibannya dalam masa jabatannya",
+                ">>>PASAL 8<<<\n\nMembahas tentang ketentuan apabila Presiden tidak dapat melakukan kewajibannya dalam masa jabatannya\n\nBunyi pasal 8\n(1) Jika Presiden mangkat, berhenti, diberhentikan, atau tidak dapat melakukan kewajibannya dalam masa jabatannya, ia digantikan oleh Wakil Presiden sampai habis masa jabatannya.\n(2) Dalam hal terjadi kekosongan Wakil Presiden, selambatlambatnya dalam waktu enam puluh hari, Majelis Permusyawaratan Rakyat menyelenggarakan sidang untuk memilih Wakil Presiden dari dua calon yang diusulkan oleh Presiden.\n(3) Jika Presiden dan Wakil Presiden mangkat, berhenti, diberhentikan, atau tidak dapat melakukan kewajibannya dalam masa jabatannya secara bersamaan, pelaksana tugas kepresidenan adalah Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan secara bersama-sama. Selambat-lambatnya tiga puluh hari setelah itu, Majelis Permusyawaratan Rakyat menyelenggarakan sidang untuk memilih Presiden dan Wakil Presiden dari dua pasangan calon Presiden dan Wakil Presiden yang diusulkan oleh partai politik atau gabungan partai politik yang pasangan calon Presiden dan Wakil Presidennya meraih suara terbanyak pertama dan kedua dalam pemilihan umum sebelumnya, sampai berakhir masa jabatannya."
             ]
         },
         {
             "tag": "pasal9",
             "patterns": [
+                "pasal 9",
                 "Pasal 9 UUD 1945 bahas tentang apa?",
-                "Berapa jumlah ayat dalam Pasal 9 UUD 1945?"
+                "Berapa jumlah ayat dalam Pasal 9 UUD 1945?",
+                "sumpah presiden",
+                "Pasal sembilan",
+                "Pasal sembilan UUD 1945 bahas tentang apa?",
+                "Berapa jumlah ayat dalam Pasal sembilan UUD 1945?"
             ],
             "responses": [
-                "Pasal 9 memiliki 2 ayat, yang membahas tentang sumpah Presiden dan Wakil Presiden"
+                ">>>PASAL 9<<<\n\nMembahas tentang sumpah Presiden dan Wakil Presiden\n\nBunyi pasal 9\n(1) Sebelum memangku jabatannya, Presiden dan Wakil Presiden bersumpah menurut agama, atau berjanji dengan sungguh-sungguh di hadapan Majelis Permusyawaratan Rakyat atau Dewan Perwakilan Rakyat.\n(2) Jika Majelis Permusyawaratan Rakyat atau Dewan Perwakilan Rakyat tidak dapat mengadakan sidang, Presiden dan Wakil Presiden bersumpah menurut agama, atau berjanji dengan sungguh-sungguh di hadapan pimpinan Majelis Permusyawaratan Rakyat dengan disaksikan oleh Pimpinan Mahkamah Agung."
             ]
         },
         {
             "tag": "pasal10",
             "patterns": [
+                "pasal 10",
                 "Pasal 10 UUD 1945 bahas tentang apa?",
-                "Berapa jumlah ayat dalam Pasal 10 UUD 1945?"
+                "Berapa jumlah ayat dalam Pasal 10 UUD 1945?",
+                "Pasal sepuluh",
+                "Pasal sepuluh UUD 1945 bahas tentang apa?",
+                "Berapa jumlah ayat dalam Pasal sepuluh UUD 1945?"
             ],
             "responses": [
                 "Pasal 10 memiliki 1 ayat, yang membahas tentang kekuasaan Presiden atas Angkatan Darat, Angkatan Laut dan Angkatan Udara"
@@ -437,8 +473,12 @@
         {
             "tag": "pasal11",
             "patterns": [
+                "pasal 11",
                 "Pasal 11 UUD 1945 bahas tentang apa?",
-                "Berapa jumlah ayat dalam Pasal 11 UUD 1945?"
+                "Berapa jumlah ayat dalam Pasal 11 UUD 1945?",
+                "Pasal sebelas",
+                "Pasal sebelas UUD 1945 bahas tentang apa?",
+                "Berapa jumlah ayat dalam Pasal sebelas UUD 1945?"
             ],
             "responses": [
                 "Pasal 11 memiliki 3 ayat, yang membahas tentang peraturan Presiden dalam berhubungan dengan internasional"
@@ -447,6 +487,7 @@
         {
             "tag": "pasal12",
             "patterns": [
+                "pasal 12",
                 "Pasal 12 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 12 UUD 1945?"
             ],
@@ -457,6 +498,7 @@
         {
             "tag": "pasal13",
             "patterns": [
+                "pasal 13",
                 "Pasal 13 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 13 UUD 1945?"
             ],
@@ -467,6 +509,7 @@
         {
             "tag": "pasal14",
             "patterns": [
+                "pasal 14",
                 "Pasal 14 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 14 UUD 1945?"
             ],
@@ -477,6 +520,7 @@
         {
             "tag": "pasal15",
             "patterns": [
+                "pasal 15",
                 "Pasal 15 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 15 UUD 1945?"
             ],
@@ -487,6 +531,7 @@
         {
             "tag": "pasal16",
             "patterns": [
+                "pasal 16",
                 "Pasal 16 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 16 UUD 1945?"
             ],
@@ -497,6 +542,7 @@
         {
             "tag": "pasal17",
             "patterns": [
+                "pasal 17",
                 "Pasal 17 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 17 UUD 1945?"
             ],
@@ -507,6 +553,7 @@
         {
             "tag": "pasal18",
             "patterns": [
+                "pasal 18",
                 "Pasal 18 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 18 UUD 1945?"
             ],
@@ -517,6 +564,7 @@
         {
             "tag": "pasal18A",
             "patterns": [
+                "pasal 18A",
                 "Pasal 18A UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 18A UUD 1945?"
             ],
@@ -527,6 +575,7 @@
         {
             "tag": "pasal18B",
             "patterns": [
+                "pasal 18B",
                 "Pasal 18B UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 18B UUD 1945?"
             ],
@@ -537,6 +586,7 @@
         {
             "tag": "pasal19",
             "patterns": [
+                "pasal 19",
                 "Pasal 19 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 19 UUD 1945?"
             ],
@@ -547,6 +597,7 @@
         {
             "tag": "pasal20",
             "patterns": [
+                "pasal 20",
                 "Pasal 20 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 20 UUD 1945?"
             ],
@@ -568,6 +619,7 @@
         {
             "tag": "pasal21",
             "patterns": [
+                "pasal 21",
                 "Pasal 21 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 21 UUD 1945?"
             ],
@@ -578,6 +630,7 @@
         {
             "tag": "pasal22",
             "patterns": [
+                "pasal 22",
                 "Pasal 22 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 22 UUD 1945?"
             ],
@@ -588,6 +641,7 @@
         {
             "tag": "pasal22A",
             "patterns": [
+                "pasal 22a",
                 "Pasal 22A UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 22A UUD 1945?"
             ],
@@ -598,6 +652,7 @@
         {
             "tag": "pasal22B",
             "patterns": [
+                "pasal 22b",
                 "Pasal 22B UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 22B UUD 1945?"
             ],
@@ -608,6 +663,7 @@
         {
             "tag": "pasal22C",
             "patterns": [
+                "pasal 22c",
                 "Pasal 22C UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 22C UUD 1945?"
             ],
@@ -618,6 +674,7 @@
         {
             "tag": "pasal22D",
             "patterns": [
+                "pasal 22d",
                 "Pasal 22D UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 22D UUD 1945?"
             ],
@@ -628,6 +685,7 @@
         {
             "tag": "pasal22E",
             "patterns": [
+                "pasal 22e",
                 "Pasal 22E UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 22E UUD 1945?"
             ],
@@ -638,6 +696,7 @@
         {
             "tag": "pasal23",
             "patterns": [
+                "pasal 23",
                 "Pasal 23 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 23 UUD 1945?"
             ],
@@ -648,6 +707,7 @@
         {
             "tag": "pasal23A",
             "patterns": [
+                "pasal 23a",
                 "Pasal 23A UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 23A UUD 1945?"
             ],
@@ -658,6 +718,7 @@
         {
             "tag": "pasal23B",
             "patterns": [
+                "pasal 23b",
                 "Pasal 23B UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 23B UUD 1945?"
             ],
@@ -668,6 +729,7 @@
         {
             "tag": "pasal23C",
             "patterns": [
+                "pasal 23c",
                 "Pasal 23C UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 23C UUD 1945?"
             ],
@@ -678,6 +740,7 @@
         {
             "tag": "pasal23D",
             "patterns": [
+                "pasal 23d",
                 "Pasal 23D UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 23D UUD 1945?"
             ],
@@ -688,6 +751,7 @@
         {
             "tag": "pasal23E",
             "patterns": [
+                "pasal 23e",
                 "Pasal 23E UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 23E UUD 1945?"
             ],
@@ -698,6 +762,7 @@
         {
             "tag": "pasal23F",
             "patterns": [
+                "pasal 23f",
                 "Pasal 23F UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 23F UUD 1945?"
             ],
@@ -708,6 +773,7 @@
         {
             "tag": "pasal23G",
             "patterns": [
+                "pasal 23g",
                 "Pasal 23G UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 23G UUD 1945?"
             ],
@@ -718,6 +784,7 @@
         {
             "tag": "pasal24",
             "patterns": [
+                "pasal 24",
                 "Pasal 24 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 24 UUD 1945?"
             ],
@@ -728,6 +795,7 @@
         {
             "tag": "pasal24A",
             "patterns": [
+                "pasal 24a",
                 "Pasal 24A UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 24A UUD 1945?"
             ],
@@ -738,6 +806,7 @@
         {
             "tag": "pasal24B",
             "patterns": [
+                "pasal 24b",
                 "Pasal 24B UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 24B UUD 1945?"
             ],
@@ -748,6 +817,7 @@
         {
             "tag": "pasal24C",
             "patterns": [
+                "pasal 24c",
                 "Pasal 24C UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 24C UUD 1945?"
             ],
@@ -758,6 +828,7 @@
         {
             "tag": "pasal25",
             "patterns": [
+                "pasal 25",
                 "Pasal 25 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 25 UUD 1945?"
             ],
@@ -768,6 +839,7 @@
         {
             "tag": "pasal25A",
             "patterns": [
+                "pasal 25a",
                 "Pasal 25A UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 25A UUD 1945?"
             ],
@@ -778,6 +850,7 @@
         {
             "tag": "pasal26",
             "patterns": [
+                "pasal 26",
                 "Pasal 26 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 26 UUD 1945?"
             ],
@@ -788,6 +861,7 @@
         {
             "tag": "pasal27",
             "patterns": [
+                "pasal 27",
                 "Pasal 27 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 27 UUD 1945?"
             ],
@@ -798,6 +872,7 @@
         {
             "tag": "pasal28",
             "patterns": [
+                "pasal 28",
                 "Pasal 28 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 28 UUD 1945?"
             ],
@@ -808,6 +883,7 @@
         {
             "tag": "pasal28A",
             "patterns": [
+                "pasal 28a",
                 "Pasal 28A UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 28A UUD 1945?"
             ],
@@ -818,6 +894,7 @@
         {
             "tag": "pasal28B",
             "patterns": [
+                "pasal 28b",
                 "Pasal 28B UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 28B UUD 1945?"
             ],
@@ -828,6 +905,7 @@
         {
             "tag": "pasal28C",
             "patterns": [
+                "pasal 28c",
                 "Pasal 28C UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 28C UUD 1945?"
             ],
@@ -838,6 +916,7 @@
         {
             "tag": "pasal28D",
             "patterns": [
+                "pasal 28d",
                 "Pasal 28D UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 28D UUD 1945?"
             ],
@@ -848,6 +927,7 @@
         {
             "tag": "pasal28E",
             "patterns": [
+                "pasal 28e",
                 "Pasal 28E UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 28E UUD 1945?"
             ],
@@ -858,6 +938,7 @@
         {
             "tag": "pasal28F",
             "patterns": [
+                "pasal 28f",
                 "Pasal 28F UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 28F UUD 1945?"
             ],
@@ -868,6 +949,7 @@
         {
             "tag": "pasal28G",
             "patterns": [
+                "pasal 28g",
                 "Pasal 28G UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 28G UUD 1945?"
             ],
@@ -878,6 +960,7 @@
         {
             "tag": "pasal28H",
             "patterns": [
+                "pasal 28h",
                 "Pasal 28H UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 28H UUD 1945?"
             ],
@@ -888,6 +971,7 @@
         {
             "tag": "pasal28I",
             "patterns": [
+                "pasal 28i",
                 "Pasal 28I UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 28I UUD 1945?"
             ],
@@ -898,6 +982,7 @@
         {
             "tag": "pasal28J",
             "patterns": [
+                "pasal 28j",
                 "Pasal 28J UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 28J UUD 1945?"
             ],
@@ -908,6 +993,7 @@
         {
             "tag": "pasal29",
             "patterns": [
+                "pasal 29",
                 "Pasal 29 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 29 UUD 1945?"
             ],
@@ -918,6 +1004,7 @@
         {
             "tag": "pasal30",
             "patterns": [
+                "pasal 30",
                 "Pasal 30 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 30 UUD 1945?"
             ],
@@ -928,6 +1015,7 @@
         {
             "tag": "pasal31",
             "patterns": [
+                "pasal 31",
                 "Pasal 31 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 31 UUD 1945?"
             ],
@@ -938,6 +1026,7 @@
         {
             "tag": "pasal32",
             "patterns": [
+                "pasal 32",
                 "Pasal 32 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 32 UUD 1945?"
             ],
@@ -948,6 +1037,7 @@
         {
             "tag": "pasal33",
             "patterns": [
+                "pasal 33",
                 "Pasal 33 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 33 UUD 1945?"
             ],
@@ -958,6 +1048,7 @@
         {
             "tag": "pasal34",
             "patterns": [
+                "pasal 34",
                 "Pasal 34 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 34 UUD 1945?"
             ],
@@ -968,6 +1059,7 @@
         {
             "tag": "pasal35",
             "patterns": [
+                "pasal 35",
                 "Pasal 35 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 35 UUD 1945?"
             ],
@@ -978,6 +1070,7 @@
         {
             "tag": "pasal36",
             "patterns": [
+                "pasal 36",
                 "Pasal 36 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 36 UUD 1945?"
             ],
@@ -988,6 +1081,7 @@
         {
             "tag": "pasal36A",
             "patterns": [
+                "pasal 36A",
                 "Pasal 36A UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 36A UUD 1945?"
             ],
@@ -998,6 +1092,7 @@
         {
             "tag": "pasal36B",
             "patterns": [
+                "pasal 36b",
                 "Pasal 36B UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 36B UUD 1945?"
             ],
@@ -1008,6 +1103,7 @@
         {
             "tag": "pasal36C",
             "patterns": [
+                "pasal 36c",
                 "Pasal 36C UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 36C UUD 1945?"
             ],
@@ -1018,6 +1114,7 @@
         {
             "tag": "pasal37",
             "patterns": [
+                "pasal 37",
                 "Pasal 37 UUD 1945 bahas tentang apa?",
                 "Berapa jumlah ayat dalam Pasal 37 UUD 1945?"
             ],
@@ -3018,7 +3115,34 @@
                 "hai"
             ],
             "responses": [
-                "Halo! Aku bisa mendengarmu ^_^"
+                "Halo! Aku bisa mendengarmu ^_^\n\nKetik /start jika ingin memulai!"
+            ]
+        },
+        {
+            "tag": "keren",
+            "patterns": [
+                "keren",
+                "anjay",
+                "mantap",
+                "gokil",
+                "terimakasih",
+                "wow",
+                "makasih"
+            ],
+            "responses": [
+                "Senang Aku bisa membantumu! Semoga harimu menyenangkan!"
+            ]
+        },
+        {
+            "tag": "about_us",
+            "patterns": [
+                "siapa pembuat",
+                "buatan siapa",
+                "siapa kamu",
+                "asal dari mana"
+            ],
+            "responses": [
+                "Aku adalah bot telegram UUD 1945 yang dibuat oleh tim Sop Safi!"
             ]
         },
         {
@@ -3040,6 +3164,8 @@
                 "salah",
                 "gajelas",
                 "error",
+                "maksud",
+                "",
                 "eror"
             ],
             "responses": [
