@@ -1670,8 +1670,8 @@
         {
             "tag": "pasal20_ayat4",
             "patterns": [
-                "Apa isi dari Pasal 20 Ayat 4 UUD 1945?",
-                "Bagaimana bunyi Pasal 20 Ayat 4 UUD 1945?"
+                "pasal 20 ayat 4",
+                "Ayat 4 pasal 20 UUD 1945"
             ],
             "responses": [
                 "Pasal 20 UUD 1945: (4) Presiden mengesahkan rancangan undang-undang yang telah disetujui bersama untuk menjadi undang-undang."
@@ -1680,8 +1680,8 @@
         {
             "tag": "pasal20_ayat5",
             "patterns": [
-                "Apa isi dari Pasal 20 Ayat 5 UUD 1945?",
-                "Bagaimana bunyi Pasal 20 Ayat 5 UUD 1945?"
+                "pasal 20 ayat 5",
+                "Ayat 5 pasal 20 UUD 1945"
             ],
             "responses": [
                 "Pasal 20 UUD 1945: (5) Dalam hal rancangan undang-undang yang telah disetujui bersama tersebut tidak disahkan oleh Presiden dalam waktu tiga puluh hari sejak disetujui, rancangan undang-undang tersebut sah menjadi undang-undang dan wajib diundangkan."
