@@ -41,9 +41,6 @@ logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
 )
 
-prev_answer = ""
-
-
 # Method to predict answer based on user input
 def predict_answer(user_input):
     global prev_answer
